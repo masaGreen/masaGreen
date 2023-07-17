@@ -2,7 +2,7 @@
 
 <h3 align="center">A Software developer.</h3>
 
-- 👨🏾‍💻 Currently working on Java and JavaScript .
+- 👨🏾‍💻 Currently working on Java and JavaScript projects.
   
 - ✌🏾 Looking forward to collaborating with other Java developers or JavaScript group projects.
   
