@@ -24,7 +24,7 @@
     
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=masaGreen&count_private=true&show_icons=true&theme=dark" alt="David macharia" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=masaGreen&count_private=true&show_icons=true&theme=dark" alt="David macharia" width="420"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masaGreen&hide=html&langs_count=8&layout=compact&theme=dark" alt="Victor Kabata" height="165" />
  </p>
 
