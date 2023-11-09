@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm David Macharia </h1>
 
-<h3 align="center">A Software developer.</h3>
+<h3 align="center">Am a Java developer.</h3>
 
 - 👨🏾‍💻 Currently working on Java and JavaScript projects.
   
