@@ -8,7 +8,7 @@
   
 - 📫 Reach me at **davidmachariamj@gmail.com**
 
-- ⚡ Fun fact **I am a coffe farmer and chemist!**
+- ⚡ Fun fact **I am a coffee farmer and chemist!**
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
